@@ -27,7 +27,7 @@ myMotor1->run(FORWARD);
 myMotor2->setSpeed(150);
 myMotor2->run(FORWARD);
 
- // DEFINIRANJE PINA SWITCHA 1 KAO ULAZA
+
  pinMode(switch1Pin ,INPUT);         
  pinMode(switch2Pin ,INPUT);            
  pinMode(switch3Pin ,INPUT);  
